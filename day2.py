@@ -108,7 +108,7 @@
 
 # class grandfather:
 #    def land(self):
-#       print("grand father has a land")
+#       print("grand father has a land")    #maltilevel
 
 
 
@@ -134,7 +134,7 @@
 
 # class son(father):
 #     def car(self):
-#         print("son has a car")
+#         print("son has a car")         #maltiple
 
 # class daughter(father):
 #     def money(self):
